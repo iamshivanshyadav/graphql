@@ -2,6 +2,16 @@
 
 This project implements a GraphQL API for performing CRUD operations on user data. It allows users to create, read and delete user records.
 
+## Usage
+
+### Accessing GraphQL Playground
+
+You can test the GraphQL API using the provided GraphQL Playground.
+
+Open your web browser and navigate to the following URL:
+
+[GraphQL Playground](https://graphql-gnik.onrender.com/graphql)
+
 ## Folder Structure
 
 ```
@@ -35,7 +45,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/iamshivanshyadav/graphql)
    ```
 
 2. Install dependencies:
